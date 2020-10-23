@@ -1,2 +1,2 @@
-# php-practice-function-basics
+# [PHP Practice] - Function Basics
 Basic practice using functions in PHP.
